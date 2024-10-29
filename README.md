@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
 <h3 align="center">Young talent on the journey to grow into an IT specialist.</h3>
 
-- 🔭 I’m currently working on **Hobby-k8s**
-
-- 🔭 I’m currently working on **Python-Backup-Tool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
