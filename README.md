@@ -1,11 +1,102 @@
-<h1 align="center">Hi 👋, I'm Dominik</h1>
-<h3 align="center">Young talent on the journey to grow into an IT specialist.</h3>
+## 👋 Hey there, I’m Dominik Eisenberg
 
+<h3 align="center">
+  Platform Engineer · Kubernetes · Observability
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dominik-eisenberg-93001422b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dominik-eisenberg-93001422b/" height="30" width="40" /></a>
+<p align="center">
+  <samp>
+    Based in <b>Hamburg, Germany</b> 🇩🇪 <br/>
+    Building scalable platforms with strong observability foundations
+  </samp>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 🧭 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 🏗️ Platform Engineer with strong Linux & cloud background  
+- ☸️ Kubernetes-first mindset (AKS, Helm, ArgoCD, Flux)  
+- 📊 Observability & Monitoring specialist  
+  - Prometheus / Grafana / Grafana Mimir  
+  - Windows & Linux exporters (windows_exporter, node_exporter)  
+- ⚙️ Automation & GitOps: Terraform, Ansible, ArgoCD  
+- 🧩 Active in Open Source & infrastructure tooling  
+- 💬 Ask me about metrics design, PromQL, exporters & scalable monitoring  
+
+---
+
+### 🌍 Open Source Focus
+
+- 🪟 **windows_exporter**
+- 📈 **Prometheus**
+- 🧠 **Grafana Mimir**
+- 📊 **Grafana Dashboards & Alerting**
+- 🧪 Metrics correctness, performance & cost efficiency
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dominik-eisenberg-93001422b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages, Tools & Platforms
+
+#### ☸️ Platform & Cloud
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+#### 🔁 Automation & GitOps
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### 📊 Observability & Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Grafana Mimir](https://img.shields.io/badge/Grafana_Mimir-1F60C4?style=for-the-badge&logo=grafana&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+
+#### 🧪 Scripting & Containers
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DominikEisenberg&theme=github-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DominikEisenberg&show_icons=true&theme=github_dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominikEisenberg&layout=compact&theme=github_dark" width="48%"/>
+</p>
+
+---
+
+### 🧩 What I’m Currently Working On
+
+- Platform engineering with Kubernetes at scale  
+- Improving windows_exporter metrics quality & correctness  
+- Designing cost-efficient Prometheus & Mimir setups  
+- Writing clean, maintainable PromQL  
+- Contributing dashboards, alerts & documentation to OSS  
+
+---
+
+### 💡 Philosophy
+
+> *Observability is a platform feature, not an afterthought.*
