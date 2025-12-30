@@ -17,6 +17,7 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+
 - 🏗️ Platform Engineer with strong Linux & cloud background  
 - ☸️ Kubernetes-first mindset (AKS, Helm, ArgoCD, Flux)  
 - 📊 Observability & Monitoring specialist  
@@ -89,8 +90,8 @@
 
 ### 🧩 What I’m Currently Working On
 
-- Platform engineering with Kubernetes at scale  
-- Improving windows_exporter metrics quality & correctness  
+- Platform engineering with Kubernetes
+- Improving windows_exporter metrics quality  
 - Designing cost-efficient Prometheus & Mimir setups  
 - Writing clean, maintainable PromQL  
 - Contributing dashboards, alerts & documentation to OSS  
