@@ -19,14 +19,14 @@
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
-- 🏗️ Platform Engineer with strong Linux & cloud background  
+- 🏗️ Platform Engineer   
 - ☸️ Kubernetes-first mindset (AKS, Helm, ArgoCD, Flux)  
 - 📊 Observability & Monitoring specialist  
   - Prometheus / Grafana / Grafana Mimir  
-  - Windows & Linux exporters (windows_exporter, node_exporter)  
+  - Windows & Linux exporters 
 - ⚙️ Automation & GitOps: Terraform, Ansible, ArgoCD  
-- 🧩 Active in Open Source & infrastructure tooling  
-- 💬 Ask me about metrics design, PromQL, exporters & scalable monitoring  
+- 🧩 Active in Open Source 
+- 💬 Ask me about metrics design, PromQL, exporters & scalable monitoring 👀
 
 ---
 
@@ -92,13 +92,5 @@
 ### 🧩 What I’m Currently Working On
 
 - Platform engineering with Kubernetes
-- Improving windows_exporter metrics quality  
-- Designing cost-efficient Prometheus & Mimir setups  
-- Writing clean, maintainable PromQL  
-- Contributing dashboards, alerts & documentation to OSS  
-
----
-
-### 💡 Philosophy
-
-> *Observability is a platform feature, not an afterthought.*
+- Improving windows_exporter metrics quality and introducing new metrics 
+- Contributing dashboards, alerts & documentation
