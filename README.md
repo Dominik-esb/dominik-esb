@@ -92,5 +92,5 @@
 ### 🧩 What I’m Currently Working On
 
 - Platform engineering with Kubernetes
-- Improving windows_exporter metrics quality and introducing new metrics 
+- Improving windows_exporter metrics and introducing new metrics 
 - Contributing dashboards, alerts & documentation
