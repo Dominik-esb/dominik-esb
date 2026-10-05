@@ -1,4 +1,4 @@
-## 👋 Hey there, I’m Dominik Eisenberg
+## 👋 Hey there, I’m Dominik
 
 <h3 align="center">
   Platform Engineer · Kubernetes · Observability
